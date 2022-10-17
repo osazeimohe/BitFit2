@@ -1,4 +1,4 @@
-# Android Project 6 - Bit Fit 2*
+# **Android Project 6 - Bit Fit 2**
 
 Submitted by: **Osaze Imohe**
 
